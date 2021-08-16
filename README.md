@@ -1,5 +1,5 @@
 # Data-science_Project
-#Collaborators:#
+# Collaborators:
 |ID          |Full Name                  |Github account|
 |:----------:|---------------------------|-----------------|
 |18127085    | Lê Nguyễn Thuỳ Dương      |[@lethuyduong2000](https://github.com/lethuyduong2000)|
